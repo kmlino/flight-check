@@ -1,6 +1,6 @@
 ### FLIGHT CHECK
 ********************************************
-![Interface gráfica](https://drive.google.com/file/d/1FepC2P5N4KtEAI2RU20ifhMWpQNQZB55/view?usp=sharing)
+![Interface gráfica](flight-check.jpg)
 
 Script feito totalmente em Python, com objetivo de facilitar a busca por informações relacionadas às imagens para os setores de Geotecnologia e Topografia.
 
